@@ -1,0 +1,11 @@
+Flask_SQLAlchemy
+SQLAlchemy
+alembic
+Flask_Login
+Flask_Testing
+Flask
+Werkzeug
+Flask_Migrate
+gunicorn
+psycopg2-binary
+pytest-cov
